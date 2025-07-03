@@ -1,0 +1,54 @@
+{
+  "personalInfo": {
+    "Name": "",
+    "Church": "",
+    "University": "",
+    "Course/Year": ""
+  },
+  "Introduction": {
+    "History": [
+      "Were you from JC/Poly/ITE/Others?",
+      "[For JC students] What was your subject combi? Why did you choose it?",
+      "[For poly students/ITE/others] What course did you take? Why did you choose it?",
+      "Did you participate in any CCAs? If not, what do you normally do after school?",
+      "How difficult would you rate the course you took on a scale from 1 to 10?",
+      "What's your MBTI? If you've not taken, would you describe yourself as an introvert/extrovert?"
+    ],
+    "Church": [
+      "Were you born in church? If not, when did you start attending?",
+      "How long does it take for you to travel to church from your house?"
+    ]
+  },
+  "Transition Readiness": [
+    "Do you feel mentally prepared for the transition from JC/Poly to university life? Why or why not?",
+    "Have you tried reaching out to seniors or friends already in the course?",
+    "Are there any habits (study, sleep, spiritual, etc.) you want to start building before the semester begins?",
+    "Have you read up on your course or looked through any of the syllabi?",
+    "Have you gotten all the materials you need (e.g., textbooks, stationery, laptop, etc.)?"
+  ],
+  "University Aspirations": [
+    "Do you have any goals you want to achieve in Uni? (doesn't only have to be studies, can also be connecting with other people, experiencing life in a hostel etc.)",
+    "Are you excited for Uni? Or why not?",
+    "What things are you looking to explore in Uni? (E.g new subject modules, new styles of learning, new hobbies etc)",
+    "Do you have any friends from [previous school] that are entering the same Uni as you?",
+    "What major did you choose/are you planning to choose? Why did you decide to choose this?",
+    "Do you have any job prospects relating to your major in mind already? (it's fine if you don't, most of us don't :))",
+    "Are you planning to join any orientation camps?",
+    "Why did you choose the Uni you chose?",
+    "Are you planning to join any CCAs?"
+  ],
+  "Concerns": [
+    "How nervous are you for Uni to start? Rate it on a scale of 1 to 10. Why or why not?",
+    "Will you be staying in the Hall? If yes, do you have any worries about the potential problems you could encounter there?",
+    "Are you worried about the kind of people you might meet in Uni?"
+  ],
+  "Faith Journey": [
+    "On a scale of 1 to 10 (1 being the least sure and 10 being absolutely confident), how confident are you that you can maintain your faith in the exact same way as you currently are? Why?",
+    "Is there anything about your faith now that you hope to improve once you start Uni? How can we (seniors) help you to improve?"
+  ],
+  "Final Thoughts": [
+    "What have you been doing over the holidays? Did you work anywhere?",
+    "Will you be attending UCFC?",
+    "If there is one line of encouragement you could give to your younger self (say, when you were just starting JC or Poly or maybe NS), what would it be?"
+  ]
+}
