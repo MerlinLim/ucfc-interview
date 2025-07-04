@@ -2,25 +2,36 @@
 
 @media print {
   .no-print {
-    display: none;
+    display: none !important;
   }
   
   body {
     background: white !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
   }
 
   .print-container {
     box-shadow: none !important;
     margin: 0 !important;
     padding: 20px !important;
+    height: auto !important;
+    overflow: visible !important;
+    page-break-inside: avoid;
   }
 
   textarea {
-    border: none !important;
-    padding: 0 !important;
+    border: 1px solid #ccc !important;
+    padding: 8px !important;
     resize: none !important;
     overflow: visible !important;
     height: auto !important;
+    page-break-inside: avoid;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
   }
 }
 
